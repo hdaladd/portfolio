@@ -76,7 +76,7 @@ ABOUT
 }
 
 /**********
-PROJECT
+PROJECTS
 **********/
 
 #project{
@@ -91,3 +91,8 @@ PROJECT
 #project .card-title{
     font-weight: bold;
 }
+
+#project .card-body{
+    background-color: #c19ce446;
+}
+
